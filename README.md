@@ -59,4 +59,4 @@ python main_cli.py
 5. 打开一个Pull Request。
 
 赞助此项目
-[](resource/reward.jpg)
+![reward](resource/reward.jpg)
