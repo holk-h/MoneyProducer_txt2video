@@ -58,5 +58,5 @@ python main_cli.py
 4. 将您的更改推送到分支 (`git push origin feature/AmazingFeature`)。
 5. 打开一个Pull Request。
 
-赞助此项目
+# 赞助此项目
 ![reward](resource/reward.jpg)
