@@ -7,7 +7,11 @@
 `MoneyProducer_txt2video` 能够使用 stable diffusion（或者任意 AI 绘图技术，提供 api 即可）和大语言模型（LLM），一键将小说文本自动转换成 AI 配图的有声小说视频。
 
 示例输出视频：
-[](./resource/example.mp4)
+
+
+https://github.com/holk-h/MoneyProducer_txt2video/assets/29571233/47e0d9e2-e0e4-4546-9747-a8ad35af4b73
+
+
 
 ## 功能特色
 
