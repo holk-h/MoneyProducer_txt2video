@@ -1,6 +1,6 @@
 # MoneyProducer_txt2video
 
-[English Readme]()
+[English Readme](resource/readme_english.md)
 
 ## 项目简介
 
