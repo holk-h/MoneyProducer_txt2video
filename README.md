@@ -46,6 +46,7 @@ python main_cli.py
 4. 在根目录执行 `python main_cli.py` 命令，生成的章节范围可更改。
 5. 视频文件将生成在 `output` 目录中。
 6. 若视频过长，可使用 `utils/split_video.sh` 或者 `utils/split_video.bat` 切分视频
+7. 英文字幕会生成在 `subtitle` 文件夹里（中文字幕直接就是原始文本），可以使用剪映等软件识别并创建字幕
 
 ## 贡献指南
 
