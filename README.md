@@ -57,3 +57,6 @@ python main_cli.py
 3. 提交您的更改 (`git commit -m 'Add some AmazingFeature'`)。
 4. 将您的更改推送到分支 (`git push origin feature/AmazingFeature`)。
 5. 打开一个Pull Request。
+
+赞助此项目
+[](resource/reward.jpg)
