@@ -1,5 +1,3 @@
-# MoneyProducer_txt2video
-
 [English Readme](resource/readme_english.md)
 
 ## 项目简介
@@ -40,10 +38,10 @@ python main_cli.py
 
 ## 使用说明
 
-1. 将小说文本文件拆分（可使用或魔改 `utils/split_txt.py` 工具），按照 `chapters_x.txt` 的格式，放置于某个目录下。
+1. 将小说文本文件拆分（可使用或魔改 `utils/split_txt.py` 工具），按照 `chapters_x.txt` 的格式，放置于某个目录下，文件夹命名为小说名字。
 2. 启动 [stable-diffusion-web-ui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)，修改 `utils/sd.py` 中的 api 地址（记得启动的时候加上 `--api --listen` 参数）
 3. 修改 `utils/llm.py` 中的 key 为你自己的 key（或者自己换不同的 llm api）
-4. 在根目录执行 `python main_cli.py` 命令，生成的章节范围可更改。
+4. 在根目录执行 `python main_cli.py` 命令，小说名字（文件夹名）、生成的章节范围均可更改。
 5. 视频文件将生成在 `output` 目录中。
 6. 若视频过长，可使用 `utils/split_video.sh` 或者 `utils/split_video.bat` 切分视频
 7. 英文字幕会生成在 `subtitle` 文件夹里（中文字幕直接就是原始文本），可以使用剪映等软件识别并创建字幕
